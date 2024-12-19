@@ -69,6 +69,4 @@ To analyze or visualize the data:
 
 ---
 
-## **Acknowledgments**
-This project was developed as part of **INFO 5602 - Information Visualization** coursework.
----
+This project was done as a part of the Information Visualization course at the University of Colorado, Boulder.
